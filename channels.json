@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "name": "🔥 Bein Sports 1",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "name": "⚡ Bein Sports 2",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+      "name": "🚀 Sky Sports",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}
